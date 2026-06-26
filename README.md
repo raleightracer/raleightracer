@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Tracer! 👋
 
-<!--
-**raleightracer/raleightracer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I love designing and building things that solve real-world problems (or just whatever I can imagine!).
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Python, C#
+* **Database:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌗 The 50/50 Split
+I like to consider myself a "50/50" developer:
+* **50% Software Engineer:** Building clean, efficient, and scalable applications.
+* **50% Cybersecurity Student:** Breaking things down, understanding vulnerabilities, and securing systems.
+
+### 🚀 What's Next?
+I have a ton of upcoming projects in the works. Follow me here on GitHub to see my public repositories and keep up with my progress!
