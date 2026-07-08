@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I 
 
 ### 🛠️ My Tech Stack
 * **Frontend:** React, Tailwind CSS
-* **Backend:** Node.js, Python, C#
+* **Backend:** PHP, Python, C#
 * **Database:** MySQL
 
 ---
