@@ -3,9 +3,11 @@
 I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I love designing and building things that solve real-world problems (or just whatever I can imagine!).
 
 ### 🛠️ My Tech Stack
-* **Frontend:** React, Tailwind CSS
-* **Backend:** PHP, Python, C#
-* **Database:** MySQL
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
+* **Backend:** Node.js, Python, PHP
+* **Database:** MySQL, PostgreSQL, Supabase
+* **DevOps & Cloud:** Git, GitHub, Vercel, Netlify, GitHub Actions
+* **Tools:** Claude Code, Codex, VS Code, Cursor, Figma 
 
 ---
 
