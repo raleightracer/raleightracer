@@ -4,10 +4,11 @@ I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I 
 
 ### My Tech Stack
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
-* **Backend:** Node.js, Python, PHP
+* **Backend:** Node.js, Laravel, Python 
 * **Database:** MySQL, PostgreSQL, Supabase
 * **DevOps & Cloud:** Git, GitHub, Vercel, Netlify, GitHub Actions
-* **Tools:** Claude Code, Codex, VS Code, Cursor, Figma 
+* **Tools:** Claude Code, Codex, VS Code, Cursor, Figma
+* **Operating System:** MacOS, Fedora, and Windows 11 
 
 ---
 
