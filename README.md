@@ -1,6 +1,6 @@
 # Hi there, I'm Tracer! 
 
-I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I love building things that solve real-world problems (or just whatever I can imagine!).
+I'm an aspiring Software Engineer and Cybersecurity based in the Philippines. I love building things that solve real-world problems (or just whatever I can imagine).
 
 ### My Tech Stack
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
